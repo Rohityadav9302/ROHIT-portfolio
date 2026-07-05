@@ -37,10 +37,15 @@ I am seeking opportunities to apply my knowledge in real-world projects and cont
 ## 🚀 Projects
 ### AI Interview Preparation Platform | React.js, Node.js, Express.js, MongoDB, JWT, AI API May 2025
 – Developed a full-stack AI-powered interview preparation platform where users can register, log in, and practice mock interviews.
+
 – Implemented secure JWT-based authentication and authorization.
+
 – Integrated AI to generate interview questions and provide interview analysis/feedback.
+
 – Built REST APIs using Express.js and stored user and interview data in MongoDB.
+
 – Implemented file upload functionality using Multer and generated interview reports.
+
 – Designed a responsive frontend using React.js.
 
 ---
