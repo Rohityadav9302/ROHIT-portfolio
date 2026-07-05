@@ -18,7 +18,8 @@ I am seeking opportunities to apply my knowledge in real-world projects and cont
 ---
 
 ## 🎓 Education
-- **MCA (2024 – 2026)** | Bansal Institute of Science & Technology, Bhopal | CGPA: 7.20  
+- **MCA (2024 – 2026)** | Bansal Institute of Science & Technology, Bhopal | CGPA: 7.20
+- **BCA (2021 - 2024)** | LNCT University, Bhopal | CGPA: 7.23
 - **Class XII (2020 – 2021)** | Saraswati Higher Secondary School, Amanganj | 80.4%  
 - **Class X (2018 – 2019)** | Saraswati Higher Secondary School, Amanganj | 79.2%  
 
